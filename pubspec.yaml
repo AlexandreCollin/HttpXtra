@@ -1,6 +1,6 @@
 name: http_xtra
 description: Http encapsulation to parse easily
-version: 0.0.2
+version: 0.1.0
 repository: https://github.com/AlexandreCollin/HttpXtra
 
 environment:
